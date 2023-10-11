@@ -1,4 +1,4 @@
-https://github.com/siddharthgosavi/siddharthgosavi/assets/17062336/167ebbe7-6810-4790-9d77-7ea0b0b43857
+<img src=”https://github.com/siddharthgosavi/siddharthgosavi/assets/17062336/167ebbe7-6810-4790-9d77-7ea0b0b43857" alt=”my banner”>
 ### Hi there 👋
 
 <!--

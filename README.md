@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/siddharthgosavi/" target="_blank" rel="noreferrer"><img src="![banner](https://github.com/siddharthgosavi/siddharthgosavi/assets/17062336/5797673f-652b-425c-80b0-f64ea2705df0)" alt="my banner"></a>
+  <a href="https://www.linkedin.com/in/siddharthgosavi/" target="_blank" rel="noreferrer"><img src="https://github.com/siddharthgosavi/siddharthgosavi/assets/17062336/5797673f-652b-425c-80b0-f64ea2705df0" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -14,7 +14,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/siddharthgosavi/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Siddharth | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/siddharthgosavi/"><img align="left" src="https://github.com/siddharthgosavi/siddharthgosavi/assets/17062336/833a3be1-3bb2-4fca-a6fe-ee6221f139be" alt="Siddharth | LinkedIn" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 

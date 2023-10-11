@@ -13,7 +13,8 @@ I'm a Full Stack Developer 💻.
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
-<a href="https://dev.to/siddharthgosavi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a>
+<a href="https://dev.to/siddharthgosavi" target="_blank" rel="noreferrer"><img src="https://github.com/siddharthgosavi/siddharthgosavi/assets/17062336/e18afb77-ee68-4af6-b8e6-af1b28957bc2" width="32" height="32" /></a>
+
 <a href="https://www.linkedin.com/in/siddharthgosavi/"><img align="left" src="https://github.com/siddharthgosavi/siddharthgosavi/assets/17062336/833a3be1-3bb2-4fca-a6fe-ee6221f139be" alt="Siddharth | LinkedIn" width="21px"/></a>
 
 </br>

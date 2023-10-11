@@ -14,7 +14,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/siddharthgosavi/"><img align="left" src="https://github.com/siddharthgosavi/siddharthgosavi/assets/17062336/833a3be1-3bb2-4fca-a6fe-ee6221f139be" alt="Siddharth | LinkedIn" width="21px"/></a>
+- <a href="https://www.linkedin.com/in/siddharthgosavi/"><img align="left" src="https://github.com/siddharthgosavi/siddharthgosavi/assets/17062336/833a3be1-3bb2-4fca-a6fe-ee6221f139be" alt="Siddharth | LinkedIn" width="21px"/></a> on LinkedIn
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
